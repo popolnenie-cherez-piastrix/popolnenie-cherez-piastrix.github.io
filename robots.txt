@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: popolnenie-cherez-piastrix.github.io
+Sitemap: https://popolnenie-cherez-piastrix.github.io/sitemap.xml
